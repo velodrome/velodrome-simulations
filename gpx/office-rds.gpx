@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.1" creator="JustGoRide.co.uk - http://www.JustGoRide.co.uk" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>149a to RDS</name>
+    <desc />
+    <copyright author="">
+      <year>2010</year>
+    </copyright>
+    <bounds minlat="53.32802" minlon="-6.25362396" maxlat="53.34116" maxlon="-6.22767" />
+  </metadata>
+  <trk>
+    <name>149a to RDS</name>
+    <trkseg>
+      <trkpt lat="53.3380228" lon="-6.25362396">
+        <ele>12.5908432006836</ele>
+      </trkpt>
+      <trkpt lat="53.34116" lon="-6.25076">
+        <ele>7.02977228164673</ele>
+      </trkpt>
+      <trkpt lat="53.33763" lon="-6.24048">
+        <ele>8.3836030960083</ele>
+      </trkpt>
+      <trkpt lat="53.33607" lon="-6.23806">
+        <ele>7.50796604156494</ele>
+      </trkpt>
+      <trkpt lat="53.33187" lon="-6.23501">
+        <ele>4.23080110549927</ele>
+      </trkpt>
+      <trkpt lat="53.32957" lon="-6.23198">
+        <ele>5.82158946990967</ele>
+      </trkpt>
+      <trkpt lat="53.3281" lon="-6.22767">
+        <ele>5.01289701461792</ele>
+      </trkpt>
+      <trkpt lat="53.32802" lon="-6.2287">
+        <ele>5.5869665145874</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

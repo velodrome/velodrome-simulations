@@ -1,0 +1,21 @@
+{
+  "name": "velodrome-simulations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "courier_signup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geolib": "^2.0.18",
+    "googlemaps": "^1.0.2",
+    "gpx-parse": "^0.9.0",
+    "plotter": "^0.5.0",
+    "polyline-encoded": "0.0.7",
+    "redis": "^2.4.2",
+    "request": "^2.67.0",
+    "velodrome": "^0.1.2"
+  }
+}
